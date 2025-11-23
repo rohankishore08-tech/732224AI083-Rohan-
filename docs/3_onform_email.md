@@ -49,7 +49,7 @@ This setup enables:
 
 Below is the workflow that you created and executed:
 
-<img width="1920" height="1032" alt="⚠️ My workflow 3 - n8n - Google Chrome 22-11-2025 11_35_46" src="https://github.com/user-attachments/assets/536a67c7-235b-44bd-b9ac-0400335d817e" />
+
 
 
 ---
@@ -58,7 +58,6 @@ Below is the workflow that you created and executed:
 
 The following email was received as a result of the workflow execution:
 
-<img width="1920" height="1032" alt="Here&#39;s the information - sanjaynewbie2@gmail com - Gmail - Google Chrome 22-11-2025 11_11_06" src="https://github.com/user-attachments/assets/a09b9093-21f9-4936-86f5-f0ff133ddbc1" />
 
 ---
 
