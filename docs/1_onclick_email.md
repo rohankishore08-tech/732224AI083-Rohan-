@@ -35,15 +35,12 @@ This workflow uses Gmail authentication and an Email node to deliver the message
 
 Your workflow should look like this:
 
-<img width="1920" height="931" alt="▶️ My workflow - n8n - Google Chrome 21-11-2025 12_31_06" src="https://github.com/user-attachments/assets/b3cc5dd6-ee7a-4603-b2de-405553d04a15" />
-
 
 ---
 
 # 4. Output Screenshot
 The mail should have reached your inbox and it should look like this:
 
-<img width="1920" height="992" alt="Manual Trigger - sanjaynewbie2@gmail com - Gmail - Google Chrome 22-11-2025 10_12_39" src="https://github.com/user-attachments/assets/26faa912-6c38-4d05-9091-21ba62d574b2" />
 
 
 ---
